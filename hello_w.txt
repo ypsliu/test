@@ -1,7 +1,17 @@
-新建一个文件试试看
+脨脗陆篓脪禄赂枚脦脛录镁脢脭脢脭驴麓
 
+<<<<<<< .mine
 hello word 
 
 yhydfdhfd
+=======
+hello word 
 
+ypsliu yuelkef
+>>>>>>> .theirs
+
+<<<<<<< .mine
 hjhjhjh
+=======
+
+>>>>>>> .theirs
