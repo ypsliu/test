@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 hello word 
 
@@ -8,24 +7,4 @@ hello word
 
 ypsliu yuelkef
 
-
-ypsliu.jjjjee
-=======
-ÐÂ½¨Ò»¸öÎÄ¼þÊÔÊÔ¿´
-
-<<<<<<< .mine
-hello word 
-
-yhydfdhfd
-=======
-hello word 
-
-ypsliu yuelkef
->>>>>>> .theirs
-
-<<<<<<< .mine
-hjhjhjh
-=======
->>>>>>> b28009c8c12e8c3ab53a8b7d2845cf9028fcbd83
-
->>>>>>> .theirs
+hhkkkv++++++++++——{}}}}}
