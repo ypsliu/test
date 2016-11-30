@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 hello word 
 
 
@@ -7,7 +7,6 @@ uuuuuuuuuuuuuuuu iiiiiiiiiiiiiiii
 
 
 ADD FILE +++ HeLLO WORD 
-=======
 
 hello word 
 
@@ -23,4 +22,3 @@ hhkkkv++++++++++——{}}}}}
 
 #########################
 add line word llllllll
->>>>>>> master
